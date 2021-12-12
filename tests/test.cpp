@@ -1,4 +1,4 @@
-//Copyright by Gri1915
+
 
 #ifndef TEST_CPP_
 #define TEST_CPP_
